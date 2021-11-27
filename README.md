@@ -1,6 +1,6 @@
 # Amazon CodeGuru Reviewer example app
 
-###   // This is a 2nd change on dev branch
+###   // This is a 12th change on dev3 branch
 
 
 This application is intended as a test case for Amazon CodeGuru Reviewer, a service that uses program analysis and machine learning to detect potential defects in code. The implementation of this example is intentionally suboptimal to demonstrate the ability of CodeGuru Reviewer to provide recommendations. You should not use this example code in production. 
